@@ -34,13 +34,13 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 2. Make sure you have [LearnPack](https://learnpack.co) installed, node.js version 14+, and Python version 3+. This is the command to install LearnPack:
 
 ```bash
-$ npm i @learnpack/learnpack -g && learnpack plugins:install learnpack-python
+$ npm i @learnpack/learnpack -g && learnpack plugins:install @learnpack/python
 ```
 
 3. Start the tutorial/exercises by running the following commands at the same level where your learn.json file is:
 
 ```bash
-$ pip3 install pytest==4.6.0 pytest-testdox mock numpy==1.17.4 pandas==0.25.3
+$ pip3 install pytest==6.2.5 mock pytest-testdox toml numpy==1.24.2 pandas
 $ learnpack start
 ```
 
