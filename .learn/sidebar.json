@@ -1,0 +1,65 @@
+{
+  "000-welcome": {
+    "us": "000-welcome"
+  },
+  "001-create-entry-file": {
+    "us": "001-create-entry-file"
+  },
+  "002-import-numpy": {
+    "us": "002-import-numpy"
+  },
+  "003-numpy-version": {
+    "us": "003-numpy-version"
+  },
+  "004-your-first-vector": {
+    "us": "004-your-first-vector"
+  },
+  "005-array-memory-size": {
+    "us": "005-array-memory-size"
+  },
+  "006-numpy-documentation": {
+    "us": "006-numpy-documentation"
+  },
+  "007-change-vector-values": {
+    "us": "007-change-vector-values"
+  },
+  "008-vector-ranging-values": {
+    "us": "008-vector-ranging-values"
+  },
+  "009-reverse-vector": {
+    "us": "009-reverse-vector"
+  },
+  "010-matrix-with-ranging-values": {
+    "us": "010-matrix-with-ranging-values"
+  },
+  "011-find-indices-of-non-zero-elements": {
+    "us": "011-find-indices-of-non-zero-elements"
+  },
+  "012-identity-matrix": {
+    "us": "012-identity-matrix"
+  },
+  "013-random-values-array": {
+    "us": "013-random-values-array"
+  },
+  "014-minimum-and-maximum": {
+    "us": "014-minimum-and-maximum"
+  },
+  "015-mean-value": {
+    "us": "015-mean-value"
+  },
+  "016-array-border": {
+    "us": "016-array-border"
+  },
+  "017-add-border-to-array": {
+    "us": "017-add-border-to-array"
+  },
+  "018-result-of-expressions": {
+    "us": "018-result-of-expressions"
+  },
+  "019-diagonal": {
+    "us": "019-diagonal"
+  },
+  "020-checkerboard-pattern": {
+    "us": "020-checkerboard-pattern"
+  }
+}
